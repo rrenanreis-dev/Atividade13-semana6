@@ -1,0 +1,14 @@
+C:\Users\Renan\Lista2\exercicios\bin\Debug\net10.0\exercicios.exe
+C:\Users\Renan\Lista2\exercicios\bin\Debug\net10.0\exercicios.deps.json
+C:\Users\Renan\Lista2\exercicios\bin\Debug\net10.0\exercicios.runtimeconfig.json
+C:\Users\Renan\Lista2\exercicios\bin\Debug\net10.0\exercicios.dll
+C:\Users\Renan\Lista2\exercicios\bin\Debug\net10.0\exercicios.pdb
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.AssemblyInfo.cs
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.dll
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\refint\exercicios.dll
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.pdb
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\exercicios.genruntimeconfig.cache
+C:\Users\Renan\Lista2\exercicios\obj\Debug\net10.0\ref\exercicios.dll
